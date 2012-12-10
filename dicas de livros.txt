@@ -1,0 +1,5 @@
+the python standard library by example
+dive in python
+github.com/cobrateam
+github.com/heynewmann
+http://linuxresort.blogspot.com.br/2012/07/pygtk-tutorial-parte-1.html
