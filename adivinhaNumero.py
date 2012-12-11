@@ -36,6 +36,9 @@ while icor not in cores.keys():
 icasa = ''
 while icasa not in casas.keys():
     os.system('cls' if os.name == 'nt' else 'clear')
+    if  icasa:
+        print 'Ops... Tente novamente'
+        print ''
     print '_'*40
     for casa in sorted(casas.keys()):
         print '| casa {} |'.format(casa[-1]),
